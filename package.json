@@ -1,0 +1,12 @@
+{
+  "name": "basic-information-site",
+  "version": "1.0.0",
+  "description": "using node to read files",
+  "main": "switch_files.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
